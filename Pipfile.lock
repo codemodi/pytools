@@ -94,12 +94,8 @@
             "version": "==6.0.1"
         },
         "pytest-mock": {
-            "hashes": [
-                "sha256:5564c7cd2569b603f8451ec77928083054d8896046830ca763ed68f4112d17c7",
-                "sha256:7122d55505d5ed5a6f3df940ad174b3f606ecae5e9bc379569cdcbd4cd9d2b83"
-            ],
-            "index": "pypi",
-            "version": "==3.2.0"
+            "hashes": [],
+            "version": "==3.10.0"
         },
         "requests": {
             "hashes": [
@@ -266,12 +262,8 @@
             "version": "==2.10.1"
         },
         "pytest-mock": {
-            "hashes": [
-                "sha256:5564c7cd2569b603f8451ec77928083054d8896046830ca763ed68f4112d17c7",
-                "sha256:7122d55505d5ed5a6f3df940ad174b3f606ecae5e9bc379569cdcbd4cd9d2b83"
-            ],
-            "index": "pypi",
-            "version": "==3.2.0"
+            "hashes": [],
+            "version": "==3.10.0"
         },
         "six": {
             "hashes": [
